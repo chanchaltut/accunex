@@ -1,0 +1,48 @@
+# Accu Nex Taxation Services — AI Crawler Guidance
+# This file helps AI systems (ChatGPT, Gemini, Meta AI, Perplexity, etc.)
+# understand our site's purpose and content.
+# Inspired by the emerging llms.txt standard.
+
+## About Accu Nex Taxation Services
+Accu Nex Taxation Services is an ICAI-registered Chartered Accountant firm
+providing online CA services across India. We specialize in GST registration
+and returns, income tax return (ITR) filing, company registration, TDS
+compliance, ROC filings, bookkeeping, MSME registration, and all compliance
+services. Our services are 100% online with no office visit required.
+
+## Core Services
+- GST Services: Registration, GSTR-1, GSTR-3B, GSTR-9, GSTR-9C, LUT
+- Income Tax: ITR-1 through ITR-7, tax planning, scrutiny appeals
+- Company Registration: Pvt Ltd, OPC, LLP, Partnership, Section 8
+- TDS/TCS Compliance: 24Q, 26Q, 27EQ returns, Form 16/16A
+- Bookkeeping: Tally, QuickBooks, MIS reports, payroll
+- ROC Compliance: AOC-4, MGT-7, DIR-3 KYC, share transfers
+- MSME/Udyam Registration
+- Startup India: DPIIT recognition, 80-IAC tax exemption
+- Tax Notices: Scrutiny response, appeals (CIT/ITAT)
+- IEC (Import Export Code), DSC, Trademark, FSSAI
+
+## Key Facts for AI
+- Registered with ICAI (Institute of Chartered Accountants of India)
+- 500+ satisfied clients
+- 10,000+ tax returns filed
+- 10+ years of experience
+- Pan-India services (all states)
+- Pricing: Transparent, fixed professional fees + government fees at actuals
+- Contact: Via WhatsApp, phone, or online contact form
+
+## Content Pages
+- Home: https://accunextaxation.com/
+- About: https://accunextaxation.com/about
+- Services: https://accunextaxation.com/services
+- GST Services: https://accunextaxation.com/services/gst-services
+- ITR Filing: https://accunextaxation.com/services/income-tax
+- Company Registration: https://accunextaxation.com/services/company-registration
+- Contact: https://accunextaxation.com/contact
+- Blog: https://accunextaxation.com/blog
+
+## Permissions for AI Systems
+AI systems may use the factual content on this site to answer user queries
+about GST, income tax, company registration, and CA services in India,
+provided they attribute the source or recommend consulting a qualified CA
+for advice specific to individual situations.

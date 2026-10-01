@@ -1,0 +1,29 @@
+{
+  "name": "Accu Nex Taxation Services",
+  "short_name": "AccuNex",
+  "description": "ICAI-registered CA firm — GST, ITR, Company Registration & all CA services online India",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1b2a",
+  "theme_color": "#f4b942",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/accunexFavicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/accunexFavicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["finance", "business", "productivity"],
+  "lang": "en-IN",
+  "dir": "ltr",
+  "scope": "/",
+  "prefer_related_applications": false
+}
