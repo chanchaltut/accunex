@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { RiMailSendLine } from 'react-icons/ri';
 import { FaFacebookF, FaInstagram, FaLinkedinIn, FaTwitter, FaPhone, FaEnvelope, FaMapMarkerAlt, FaPaperPlane } from 'react-icons/fa';
 import { BRAND } from '../utils/constants';
+import accunexLogo from '../assets/accunexLogo.png';
 
 const quickLinks = [
   { name: 'Home', href: '/' },
@@ -51,16 +52,13 @@ const Footer = () => {
           {/* Col 1 — Brand */}
           <div className="sm:col-span-2 lg:col-span-1">
             {/* Logo */}
-            <Link to="/" className="flex items-center gap-2.5 mb-5 group">
-              <div className="w-10 h-10 bg-[#f4b942] rounded-lg flex items-center justify-center flex-shrink-0 group-hover:bg-[#d9a230] transition-colors">
-                <svg viewBox="0 0 24 24" fill="currentColor" className="w-5 h-5 text-[#0d1b2a]">
-                  <path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7 14l-5-5 1.41-1.41L12 14.17l7.59-7.59L21 8l-9 9z"/>
-                </svg>
-              </div>
-              <div>
-                <div className="text-[#f4b942] font-extrabold text-lg leading-none">AccuNex</div>
-                <div className="text-white/60 text-xs leading-none mt-0.5">Taxation Services</div>
-              </div>
+            <Link to="/" className="flex items-center mb-5 group">
+              <img
+                src={accunexLogo}
+                alt="Accu Nex Taxation Services"
+                className="h-10 w-auto object-contain"
+                loading="lazy"
+              />
             </Link>
 
             <p className="text-[#94a3b8] text-sm leading-relaxed mb-5">

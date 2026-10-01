@@ -22,7 +22,7 @@ const Insights = () => {
       title: 'Recent Amendments in Indian Cyber Crime Laws: What You Need to Know',
       category: 'Legal Updates',
       date: 'January 10, 2024',
-      author: 'Juris Associates',
+      author: 'Accu Nex Taxation',
       excerpt: 'The Indian government has introduced several amendments to cyber crime laws. This article covers the key changes and their implications for businesses and individuals.',
       image: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80',
       readTime: '7 min read'
@@ -42,7 +42,7 @@ const Insights = () => {
       title: 'Corporate Compliance in 2024: Key Regulatory Changes',
       category: 'Legal Updates',
       date: 'December 28, 2023',
-      author: 'Juris Associates',
+      author: 'Accu Nex Taxation',
       excerpt: 'Stay updated with the latest corporate compliance requirements and regulatory changes that affect businesses in India.',
       image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80',
       readTime: '8 min read'
@@ -52,7 +52,7 @@ const Insights = () => {
       title: 'Case Study: Successful Recovery of Frozen Bank Account',
       category: 'Case Studies',
       date: 'December 20, 2023',
-      author: 'Juris Associates',
+      author: 'Accu Nex Taxation',
       excerpt: 'A detailed case study of how we successfully helped a client recover their frozen bank account within 48 hours through proper legal procedures.',
       image: 'https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&q=80',
       readTime: '10 min read'
@@ -62,7 +62,7 @@ const Insights = () => {
       title: 'Employment Law Updates: New Labour Codes and Their Impact',
       category: 'Legal Updates',
       date: 'December 15, 2023',
-      author: 'Juris Associates',
+      author: 'Accu Nex Taxation',
       excerpt: 'The new labour codes have significant implications for both employers and employees. Understand what has changed and how it affects you.',
       image: 'https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&q=80',
       readTime: '6 min read'
@@ -82,7 +82,7 @@ const Insights = () => {
       title: 'Dispute Resolution: Choosing Between Litigation and Arbitration',
       category: 'Expert Opinions',
       date: 'December 5, 2023',
-      author: 'Juris Associates',
+      author: 'Accu Nex Taxation',
       excerpt: 'An expert analysis of when to choose litigation versus arbitration for resolving commercial disputes.',
       image: 'https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800&q=80',
       readTime: '7 min read'

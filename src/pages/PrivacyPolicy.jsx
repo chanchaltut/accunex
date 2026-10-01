@@ -1,5 +1,5 @@
 import React from 'react';
-import { SOCIAL_LINKS } from '../utils/constants';
+import { BRAND } from '../utils/constants';
 
 const PrivacyPolicy = () => {
   return (
@@ -9,7 +9,7 @@ const PrivacyPolicy = () => {
         <div className="max-w-[1400px] mx-auto">
           <div className="text-center mb-12 sm:mb-16">
             <h1 className="text-white text-[40px] sm:text-[48px] md:text-[56px] lg:text-[64px] font-bold mb-6 leading-tight">
-              Privacy <span className="text-[#c9a870]">Policy</span>
+              Privacy <span className="text-[#f4b942]">Policy</span>
             </h1>
             <p className="text-gray-300 text-lg sm:text-xl max-w-3xl mx-auto">
               Last Updated: January 2024
@@ -25,16 +25,16 @@ const PrivacyPolicy = () => {
           <div className="bg-[#1a1a1a] rounded-[20px] p-8 sm:p-10 md:p-12 space-y-8">
             
             <div>
-              <h2 className="text-white text-2xl font-bold mb-4 text-[#c9a870]">
+              <h2 className="text-white text-2xl font-bold mb-4 text-[#f4b942]">
                 1. Introduction
               </h2>
               <p className="text-gray-300 text-[15px] sm:text-[16px] leading-relaxed">
-                Juris Associates ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our legal services. By using our website, you consent to the data practices described in this policy.
+                Accu Nex Taxation Services ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our legal services. By using our website, you consent to the data practices described in this policy.
               </p>
             </div>
 
             <div>
-              <h2 className="text-white text-2xl font-bold mb-4 text-[#c9a870]">
+              <h2 className="text-white text-2xl font-bold mb-4 text-[#f4b942]">
                 2. Information We Collect
               </h2>
               <div className="space-y-4 text-gray-300 text-[15px] sm:text-[16px] leading-relaxed">
@@ -64,7 +64,7 @@ const PrivacyPolicy = () => {
             </div>
 
             <div>
-              <h2 className="text-white text-2xl font-bold mb-4 text-[#c9a870]">
+              <h2 className="text-white text-2xl font-bold mb-4 text-[#f4b942]">
                 3. How We Use Your Information
               </h2>
               <p className="text-gray-300 text-[15px] sm:text-[16px] leading-relaxed mb-4">
@@ -81,7 +81,7 @@ const PrivacyPolicy = () => {
             </div>
 
             <div>
-              <h2 className="text-white text-2xl font-bold mb-4 text-[#c9a870]">
+              <h2 className="text-white text-2xl font-bold mb-4 text-[#f4b942]">
                 4. Information Sharing and Disclosure
               </h2>
               <p className="text-gray-300 text-[15px] sm:text-[16px] leading-relaxed mb-4">
@@ -97,7 +97,7 @@ const PrivacyPolicy = () => {
             </div>
 
             <div>
-              <h2 className="text-white text-2xl font-bold mb-4 text-[#c9a870]">
+              <h2 className="text-white text-2xl font-bold mb-4 text-[#f4b942]">
                 5. Data Security
               </h2>
               <p className="text-gray-300 text-[15px] sm:text-[16px] leading-relaxed">
@@ -106,7 +106,7 @@ const PrivacyPolicy = () => {
             </div>
 
             <div>
-              <h2 className="text-white text-2xl font-bold mb-4 text-[#c9a870]">
+              <h2 className="text-white text-2xl font-bold mb-4 text-[#f4b942]">
                 6. Your Rights
               </h2>
               <p className="text-gray-300 text-[15px] sm:text-[16px] leading-relaxed mb-4">
@@ -123,7 +123,7 @@ const PrivacyPolicy = () => {
             </div>
 
             <div>
-              <h2 className="text-white text-2xl font-bold mb-4 text-[#c9a870]">
+              <h2 className="text-white text-2xl font-bold mb-4 text-[#f4b942]">
                 7. Cookies and Tracking Technologies
               </h2>
               <p className="text-gray-300 text-[15px] sm:text-[16px] leading-relaxed">
@@ -132,7 +132,7 @@ const PrivacyPolicy = () => {
             </div>
 
             <div>
-              <h2 className="text-white text-2xl font-bold mb-4 text-[#c9a870]">
+              <h2 className="text-white text-2xl font-bold mb-4 text-[#f4b942]">
                 8. Third-Party Links
               </h2>
               <p className="text-gray-300 text-[15px] sm:text-[16px] leading-relaxed">
@@ -141,7 +141,7 @@ const PrivacyPolicy = () => {
             </div>
 
             <div>
-              <h2 className="text-white text-2xl font-bold mb-4 text-[#c9a870]">
+              <h2 className="text-white text-2xl font-bold mb-4 text-[#f4b942]">
                 9. Children's Privacy
               </h2>
               <p className="text-gray-300 text-[15px] sm:text-[16px] leading-relaxed">
@@ -150,7 +150,7 @@ const PrivacyPolicy = () => {
             </div>
 
             <div>
-              <h2 className="text-white text-2xl font-bold mb-4 text-[#c9a870]">
+              <h2 className="text-white text-2xl font-bold mb-4 text-[#f4b942]">
                 10. Changes to This Privacy Policy
               </h2>
               <p className="text-gray-300 text-[15px] sm:text-[16px] leading-relaxed">
@@ -159,17 +159,17 @@ const PrivacyPolicy = () => {
             </div>
 
             <div>
-              <h2 className="text-white text-2xl font-bold mb-4 text-[#c9a870]">
+              <h2 className="text-white text-2xl font-bold mb-4 text-[#f4b942]">
                 11. Contact Us
               </h2>
               <p className="text-gray-300 text-[15px] sm:text-[16px] leading-relaxed mb-4">
                 If you have any questions about this Privacy Policy or wish to exercise your rights, please contact us:
               </p>
               <div className="bg-[#0f0f0f] rounded-lg p-6 space-y-2">
-                <p className="text-gray-300"><strong className="text-white">Juris Associates</strong></p>
-                <p className="text-gray-300">Kolkata, West Bengal, India</p>
-                <p className="text-gray-300">Email: <a href={`mailto:${SOCIAL_LINKS.email}`} className="text-[#c9a870] hover:underline">{SOCIAL_LINKS.email}</a></p>
-                <p className="text-gray-300">Phone: <a href="tel:9211957859" className="text-[#c9a870] hover:underline">+91 9211957859</a></p>
+                <p className="text-gray-300"><strong className="text-white">Accu Nex Taxation Services</strong></p>
+                <p className="text-gray-300">New Delhi, India</p>
+                <p className="text-gray-300">Email: <a href={`mailto:${BRAND.email}`} className="text-[#f4b942] hover:underline">{BRAND.email}</a></p>
+                <p className="text-gray-300">Phone: <a href={`tel:${BRAND.phone}`} className="text-[#f4b942] hover:underline">+91 {BRAND.phone}</a></p>
               </div>
             </div>
 
